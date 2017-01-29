@@ -1,0 +1,25 @@
+img {
+  width: 250px;
+}
+
+h1 {
+  color:#36f7d3;
+  font-family: Arial;
+}
+
+#johnny {
+  border: 4px dashed black;
+  padding: 10px;
+  margin: 10px;
+}
+.menu li{
+  float:right;
+  display: inline;
+  margin: 3px;
+}
+.menu a {
+  color: white;
+  padding: 5px;
+  border: 1px dashed;
+  background-color: blue;
+}
